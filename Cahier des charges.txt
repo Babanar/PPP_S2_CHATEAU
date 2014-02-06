@@ -1,0 +1,42 @@
+	
+	Languages et technologies utilisés :
+
+	-------------------------------------------------------------------------------------------------------------------------
+	|	Personne	|	Kevin		|	Quentin 	|	Axel		| 	Louis		|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	JavaScript	|	Maitrise	|	Apprend		|	Maitrise	|	Maitrise	|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	JQuery		|	Connaissance	|	   ?		|	Maitrise	|	Maitrise	|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	AJAX		|	   ?		|	   ?		|	Maitrise	|	Maitrise	|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	PHP		|	Connaissance	|	   ?		|	Maitrise	|	Maitrise	|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	SQL		|	Maitrise	|	Maitrise	|	Maitrise	|	Maitrise	|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	HTML/CSS	|	Maitrise	|	Maitrise	|	Maitrise	|	Maitrise	|
+	-------------------------------------------------------------------------------------------------------------------------
+	|	Latex		|	Connaissance	|	   ?		|	   ?		|	   ?		|
+	-------------------------------------------------------------------------------------------------------------------------
+	
+	But du projet :
+
+		Fonction principales :
+
+			Jeu mutlijoueur 1vs1 par navigateur.
+			Le jeu se présente sous la forme suivante :
+				Chaque joueur possède un chateau.
+				Une coline (et des obstacles éventuels) sépare les chateaux.
+				Les chateaux sont équipés de canon (ou catapulte).
+				À chaque tour de jeu, le joueur doit établir l'angle et la puissance du tir de son canon.
+			 	Le but étant d'atteindre le chateau adverse.
+	
+			Tchat présent en jeu.
+
+		Fonctions secondaires :
+
+			Créer un compte.
+			Voir les statistiques de chaques utilisateurs.
+			Classement des utilisateurs.
+			Système d'amélioration des chateaux des utilisateurs enregistrés.
+	
